@@ -46,10 +46,6 @@
 <a href="https://linkedin.com/in/priyanshushrivastava-" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-
-<a href="https://twitter.com/@priyanshu_2oo0" target="blank">
-<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
-</a>
 </p>
 
 ---
